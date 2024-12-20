@@ -11,10 +11,12 @@ const Navbar = () => {
                 href="#"
                 className="text-buccaneer-800 bg-buccaneer-200 font-semibold tracking-widest text-2xl uppercase sm:text-3xl"
               >
-                IMEN BENMOHAMAED
+                IBM
               </a>
-              <MenuBar variant="horizontal" />
+              
             </div>
+
+            <MenuBar variant="horizontal" />
           </div>
         </div>
       </div>
